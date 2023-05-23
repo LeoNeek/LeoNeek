@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Codes in MQL4/5, Solidity and sometimes in Rust.
+
 <!--
 **LeoNeek/LeoNeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
